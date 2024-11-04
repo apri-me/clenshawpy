@@ -7,7 +7,6 @@ name = "clenshawpy"
 version = "0.1.0"
 description = "A package for representing and evaluating Clenshaw polynomials."
 readme = "README.md"
-readme-content-type = "text/markdown"
 authors = [
     { name = "Alireza Afroozi", email = "afrzi@proton.me" },
 ]
@@ -23,5 +22,4 @@ requires-python = ">=3.6"
 dependencies = ["numpy"]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/clenshawpy"
-Bug Tracker = "https://github.com/yourusername/clenshawpy/issues"
+Homepage = "https://github.com/apri-me/clenshawpy"
